@@ -1,0 +1,15 @@
+D:\basiclearning\bin\Debug\net6.0\basiclearning.exe
+D:\basiclearning\bin\Debug\net6.0\basiclearning.deps.json
+D:\basiclearning\bin\Debug\net6.0\basiclearning.runtimeconfig.json
+D:\basiclearning\bin\Debug\net6.0\basiclearning.dll
+D:\basiclearning\bin\Debug\net6.0\ref\basiclearning.dll
+D:\basiclearning\bin\Debug\net6.0\basiclearning.pdb
+D:\basiclearning\obj\Debug\net6.0\basiclearning.csproj.AssemblyReference.cache
+D:\basiclearning\obj\Debug\net6.0\basiclearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\basiclearning\obj\Debug\net6.0\basiclearning.AssemblyInfoInputs.cache
+D:\basiclearning\obj\Debug\net6.0\basiclearning.AssemblyInfo.cs
+D:\basiclearning\obj\Debug\net6.0\basiclearning.csproj.CoreCompileInputs.cache
+D:\basiclearning\obj\Debug\net6.0\basiclearning.dll
+D:\basiclearning\obj\Debug\net6.0\ref\basiclearning.dll
+D:\basiclearning\obj\Debug\net6.0\basiclearning.pdb
+D:\basiclearning\obj\Debug\net6.0\basiclearning.genruntimeconfig.cache
